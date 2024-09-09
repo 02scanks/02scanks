@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ethan Scott</h1>
 <h3 align="center">A passionate software engineer from Melbourne, Australia</h3>
 
-👋 Hi, I'm Ethan Scott, a 22-year-old software developer based in Melbourne, Australia. I have a passion for computers and creating video games with Unity and building robust applications using C# and Java. When I'm not coding, you can usually find me exploring new tech trends or working on my next project.
+👋 Hi, I'm Ethan Scott, a 22 year-old software developer based in Melbourne, Australia. I have a passion for computers and creating video games with Unity and building robust applications using C# and Java. When I'm not coding, you can usually find me exploring new tech trends or working on my next project.
 
-Feel free to check out my repositories to see what I'm working on—I'm always up for a challenge and love learning new things along the way!
+Feel free to check out my repositories to see what I'm working on as I'm always up for a challenge and love learning new things along the way!
 
 <!---
 02scanks/02scanks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
