@@ -8,10 +8,10 @@ I'm a 23-year-old developer focused on building scalable web apps and backend sy
 
 ### 🛠️ Core Skills
 
-- **Languages:** C#, Java, Python, Bash
+- **Languages:** C#
 - **Web & Backend:** ASP.NET Core, REST APIs, Razor Pages, Entity Framework
 - **DevOps & Infra:** Docker, Linux, Nginx
-- **Databases:** MySQL, SQLite, MSSQL
+- **Databases:** MySQL, SQLite
 - **Networking:** TCP/UDP sockets, peer-to-peer architecture (learning phase)
 - **Cloud & Deployment:** Linode, Cloudflare, GitHub Actions
 
