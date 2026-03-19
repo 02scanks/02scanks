@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **23-year-old developer** passionate about building **scalable web applications** and **robust backend systems**. My focus is on creating clean, reliable software using modern technologies and best practices.
+I'm a **24-year-old developer** passionate about building **scalable web applications** and **robust backend systems**. My focus is on creating clean, reliable software using modern technologies and best practices.
 
 Currently deep-diving into **networking fundamentals** — working with TCP/UDP protocols and exploring peer-to-peer architectures to build distributed systems from the ground up.
 
