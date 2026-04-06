@@ -17,9 +17,7 @@
 
 I'm a **24-year-old developer** passionate about building **scalable web applications** and **robust backend systems**. My focus is on creating clean, reliable software using modern technologies and best practices.
 
-Currently deep-diving into **networking fundamentals** — working with TCP/UDP protocols and exploring peer-to-peer architectures to build distributed systems from the ground up.
 
-> *"No gimmicks. Just clean code, reliable systems, and constant learning."*
 
 ---
 
@@ -44,18 +42,3 @@ Currently deep-diving into **networking fundamentals** — working with TCP/UDP 
 - **Cloud Services:** Deployment and management on Linode with Cloudflare integration
 
 ---
-
-## 📫 Let's Connect
-
-Feel free to reach out if you want to collaborate, discuss tech, or just say hi!
-
-- **Twitter:** [@02scanks](https://twitter.com/02scanks)
-- **Instagram:** [@scankss](https://instagram.com/scankss)
-
----
-
-<div align="center">
-
-*Building the future, one commit at a time* 💻
-
-</div>
