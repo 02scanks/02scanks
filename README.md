@@ -36,39 +36,6 @@ Currently deep-diving into **networking fundamentals** — working with TCP/UDP 
 - Razor Pages
 - Entity Framework
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**Skills:**
-- Docker & Containerization
-- Linux Server Administration
-- Nginx Configuration
-- CI/CD with GitHub Actions
-- Cloud Deployment (Linode, Cloudflare)
-
-### Data & Networking
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Areas of Focus:**
-- MySQL & SQLite
-- TCP/UDP Socket Programming
-- Peer-to-Peer Architecture (currently learning)
-- Microservices Architecture
-
----
-
-## 📚 Currently Learning
-
-- 🌐 Low-level networking protocols (TCP/UDP)
-- 🔗 Peer-to-peer distributed systems
-- 🏗️ Advanced microservices patterns
-
----
-
 ## 💼 What I Work With
 
 - **Backend Development:** Building RESTful APIs and microservices
